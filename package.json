@@ -2,7 +2,7 @@
   "name": "e-clothes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://umash25.github.io/e-clothes",
+  "homepage": "https://umash25.github.io/e-clothes/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
