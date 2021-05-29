@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/e-clothes/static/css/main.8a8a6201.chunk.css",
+    "main.js": "/e-clothes/static/js/main.c1f68d0d.chunk.js",
+    "main.js.map": "/e-clothes/static/js/main.c1f68d0d.chunk.js.map",
+    "runtime-main.js": "/e-clothes/static/js/runtime-main.8c52e0d1.js",
+    "runtime-main.js.map": "/e-clothes/static/js/runtime-main.8c52e0d1.js.map",
+    "static/js/2.95b93e4a.chunk.js": "/e-clothes/static/js/2.95b93e4a.chunk.js",
+    "static/js/2.95b93e4a.chunk.js.map": "/e-clothes/static/js/2.95b93e4a.chunk.js.map",
+    "index.html": "/e-clothes/index.html",
+    "static/css/main.8a8a6201.chunk.css.map": "/e-clothes/static/css/main.8a8a6201.chunk.css.map",
+    "static/js/2.95b93e4a.chunk.js.LICENSE.txt": "/e-clothes/static/js/2.95b93e4a.chunk.js.LICENSE.txt",
+    "static/media/cart.826418c7.svg": "/e-clothes/static/media/cart.826418c7.svg",
+    "static/media/crown.6fe28dad.svg": "/e-clothes/static/media/crown.6fe28dad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c52e0d1.js",
+    "static/js/2.95b93e4a.chunk.js",
+    "static/css/main.8a8a6201.chunk.css",
+    "static/js/main.c1f68d0d.chunk.js"
+  ]
+}
